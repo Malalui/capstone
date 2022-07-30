@@ -60,6 +60,10 @@ Deploying 'Verifier'
       > confirmation number: 2 (block: 11116309)
 ```
 
+# Tests
+To test the project you can simply do
+`truffle develop`
+`test`
 
 # Project Resources
 
