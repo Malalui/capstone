@@ -4,18 +4,20 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 
 # Versions used
+```
 Truffle v5.4.29 (core: 5.4.29)
 Solidity v0.5.16 (solc-js)
 Node v16.15.1
 Web3.js v1.5.3
 npm 6.14.17
+```
 
 # Zokrates
-sudo docker run -v /home/patricia/Blockchain/Blockchain-Capstone:/home/zokrates/code -ti zokrates/zokrates:0.4.5 /bin/bash
+`sudo docker run -v /home/patricia/Blockchain/Blockchain-Capstone:/home/zokrates/code -ti zokrates/zokrates:0.4.5 /bin/bash`
 
 
 # rinkeby
-
+```
 Deploying 'Verifier'
    --------------------
    > transaction hash:    0x2ea735a70d3694f94dadb62626a64cca35f8f19dcd6c39b85dc87393e795a592
@@ -34,8 +36,10 @@ Deploying 'Verifier'
    ------------------------------
    > confirmation number: 1 (block: 11116305)
    > confirmation number: 2 (block: 11116306)
+```
 
 
+```
    Deploying 'SolnSquareVerifier'
       ------------------------------
       > transaction hash:    0xe64e612d6a30118494f2b4fe8e024ae21d52f3747b5315885959d0401340183a
@@ -54,6 +58,8 @@ Deploying 'Verifier'
       ------------------------------
       > confirmation number: 1 (block: 11116308)
       > confirmation number: 2 (block: 11116309)
+```
+
 
 # Project Resources
 
