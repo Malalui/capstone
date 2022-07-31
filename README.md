@@ -17,6 +17,11 @@ npm 6.14.17
 
 
 # rinkeby
+You can interact with my contract here:
+
+`https://rinkeby.etherscan.io/address/0x9d5C60c319F655937001a5a322Be1b9308CE7e84#writeContract`
+
+
 ```
 Deploying 'Verifier'
    --------------------
@@ -67,6 +72,7 @@ To test the project you can simply do
 
 # OpenSea Marketplace
 I minted 10 tokens and sold 5 of them to another account of mine:
+
 `https://testnets.opensea.io/collection/unidentified-contract-tlpqethlnt`
 
 # Project Resources
