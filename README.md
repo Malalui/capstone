@@ -65,6 +65,10 @@ To test the project you can simply do
 `truffle develop`
 `test`
 
+# OpenSea Marketplace
+I minted 10 tokens and sold 5 of them to another account of mine:
+`https://testnets.opensea.io/collection/unidentified-contract-tlpqethlnt`
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
